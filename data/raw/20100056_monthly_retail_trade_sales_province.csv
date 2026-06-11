@@ -1,0 +1,43 @@
+﻿"Monthly retail trade sales by province and territory (x 1,000) 1 2"
+"Frequency: Monthly"
+"Table: 20-10-0056-01"
+"Release date: 2026-05-22"
+"Geography: Canada, Province or territory, Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"North American Industry Classification System (NAICS)","Retail trade  [44-45]",,,,
+"Sales","Total retail sales",,,,
+"Adjustments","Seasonally adjusted",,,,
+"Geography","November 2025","December 2025","January 2026","February 2026","March 2026"
+,"Dollars",,,,
+"Canada","70,985,144A","70,708,740A","71,532,029A","72,007,746A","72,666,223A"
+"Newfoundland and Labrador","1,041,652B","1,003,962B","1,042,287B","1,048,798B","1,096,152B"
+"Prince Edward Island","306,265A","301,180A","312,065A","314,929A","323,166A"
+"Nova Scotia","1,922,846A","1,899,667A","1,928,610A","1,968,043A","1,972,448A"
+"New Brunswick","1,578,334A","1,593,453A","1,606,619A","1,624,756A","1,635,354A"
+"Quebec","15,648,579A","15,748,859A","15,793,196A","16,087,599A","15,954,373A"
+"Ontario","26,736,104A","26,739,658A","26,858,973A","27,086,127A","27,457,787A"
+"Manitoba","2,390,847A","2,377,432A","2,382,217A","2,433,655A","2,475,427A"
+"Saskatchewan","2,207,896A","2,186,340A","2,235,786A","2,262,779A","2,268,392A"
+"Alberta","9,247,734A","8,999,012A","9,360,463A","9,225,411A","9,467,302A"
+"British Columbia","9,665,996A","9,619,953A","9,759,008A","9,705,066A","9,752,691B"
+"Yukon","99,650B","100,400B","102,929B","104,285B","107,451B"
+"Northwest Territories","79,862A","82,055A","83,759B","78,660A","87,064B"
+"Nunavut","59,379A","56,770A","66,117A","67,640A","68,617A"
+
+Symbol legend:
+A, data quality: excellent
+B, data quality: very good
+
+
+
+
+Footnotes:
+1,"This table replaces table 20-10-0008."
+2,"Quality indicator: Code A=Excellent. Code B=Very good. Code C=Good. Code D=Acceptable. Code E=Poor, use with caution. Code F=Unreliable (data not published)."
+
+
+
+"How to cite: Statistics Canada. Table 20-10-0056-01  Monthly retail trade sales by province and territory (x 1,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010005601

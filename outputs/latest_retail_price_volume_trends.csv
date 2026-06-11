@@ -1,0 +1,6 @@
+industry,period,year,month,uom,measure_value,geo,measure,measure_yoy_change_percent
+Food and beverage retailers [445],2026-03-01,2026,3,Dollars,9962.0,Canada,Retail sales at 2017 constant prices (Unchained Laspeyres Index),-0.4994007191370331
+Supermarkets and other grocery retailers (except convenience retailers) [44511],2026-03-01,2026,3,Dollars,7126.0,Canada,Retail sales at 2017 constant prices (Unchained Laspeyres Index),-0.6552349086853426
+Grocery and convenience retailers [4451],2026-03-01,2026,3,Dollars,7651.0,Canada,Retail sales at 2017 constant prices (Unchained Laspeyres Index),-0.778109194656984
+Specialty food retailers [4452],2026-03-01,2026,3,Dollars,674.0,Canada,Retail sales at 2017 constant prices (Unchained Laspeyres Index),-2.3188405797101463
+Convenience retailers and vending machine operators [44513],2026-03-01,2026,3,Dollars,525.0,Canada,Retail sales at 2017 constant prices (Unchained Laspeyres Index),-2.4163568773234223

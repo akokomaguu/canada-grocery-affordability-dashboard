@@ -1,0 +1,53 @@
+geo,year,demographic,food_security_status,statistic,food_insecurity_percent,food_insecurity_yoy_change_points
+Canada,2023,All persons,Food insecure,Percentage of persons,25.7,
+Canada,2024,All persons,Food insecure,Percentage of persons,24.0,-1.6999999999999993
+Canada,2023,All persons,"Food insecure, moderate or severe",Percentage of persons,19.4,
+Canada,2024,All persons,"Food insecure, moderate or severe",Percentage of persons,18.4,-1.0
+Canada,2023,Indigenous population aged 15 years and over 9,Food insecure,Percentage of persons,40.0,
+Canada,2024,Indigenous population aged 15 years and over 9,Food insecure,Percentage of persons,34.7,-5.299999999999997
+Canada,2023,Indigenous population aged 15 years and over 9,"Food insecure, moderate or severe",Percentage of persons,34.5,
+Canada,2024,Indigenous population aged 15 years and over 9,"Food insecure, moderate or severe",Percentage of persons,29.7,-4.800000000000001
+Canada,2023,Men+ 5,Food insecure,Percentage of persons,25.2,
+Canada,2024,Men+ 5,Food insecure,Percentage of persons,23.9,-1.3000000000000007
+Canada,2023,Men+ 5,"Food insecure, moderate or severe",Percentage of persons,19.1,
+Canada,2024,Men+ 5,"Food insecure, moderate or severe",Percentage of persons,18.2,-0.9000000000000021
+Canada,2023,Persons 18 to 24 years,Food insecure,Percentage of persons,28.5,
+Canada,2024,Persons 18 to 24 years,Food insecure,Percentage of persons,26.7,-1.8000000000000007
+Canada,2023,Persons 18 to 24 years,"Food insecure, moderate or severe",Percentage of persons,22.3,
+Canada,2024,Persons 18 to 24 years,"Food insecure, moderate or severe",Percentage of persons,20.7,-1.6000000000000014
+Canada,2023,Persons 25 to 34 years,Food insecure,Percentage of persons,30.3,
+Canada,2024,Persons 25 to 34 years,Food insecure,Percentage of persons,26.8,-3.5
+Canada,2023,Persons 25 to 34 years,"Food insecure, moderate or severe",Percentage of persons,22.7,
+Canada,2024,Persons 25 to 34 years,"Food insecure, moderate or severe",Percentage of persons,20.1,-2.599999999999998
+Canada,2023,Persons 35 to 44 years,Food insecure,Percentage of persons,30.5,
+Canada,2024,Persons 35 to 44 years,Food insecure,Percentage of persons,28.4,-2.1000000000000014
+Canada,2023,Persons 35 to 44 years,"Food insecure, moderate or severe",Percentage of persons,23.3,
+Canada,2024,Persons 35 to 44 years,"Food insecure, moderate or severe",Percentage of persons,22.1,-1.1999999999999993
+Canada,2023,Persons 45 to 54 years,Food insecure,Percentage of persons,25.9,
+Canada,2024,Persons 45 to 54 years,Food insecure,Percentage of persons,26.0,0.10000000000000142
+Canada,2023,Persons 45 to 54 years,"Food insecure, moderate or severe",Percentage of persons,19.8,
+Canada,2024,Persons 45 to 54 years,"Food insecure, moderate or severe",Percentage of persons,20.3,0.5
+Canada,2023,Persons 55 to 64 years,Food insecure,Percentage of persons,20.8,
+Canada,2024,Persons 55 to 64 years,Food insecure,Percentage of persons,20.3,-0.5
+Canada,2023,Persons 55 to 64 years,"Food insecure, moderate or severe",Percentage of persons,15.3,
+Canada,2024,Persons 55 to 64 years,"Food insecure, moderate or severe",Percentage of persons,15.4,0.09999999999999964
+Canada,2023,Persons 65 years and over,Food insecure,Percentage of persons,12.8,
+Canada,2024,Persons 65 years and over,Food insecure,Percentage of persons,11.9,-0.9000000000000004
+Canada,2023,Persons 65 years and over,"Food insecure, moderate or severe",Percentage of persons,9.3,
+Canada,2024,Persons 65 years and over,"Food insecure, moderate or severe",Percentage of persons,8.4,-0.9000000000000004
+Canada,2023,Persons under 18 years,Food insecure,Percentage of persons,33.0,
+Canada,2024,Persons under 18 years,Food insecure,Percentage of persons,30.8,-2.1999999999999993
+Canada,2023,Persons under 18 years,"Food insecure, moderate or severe",Percentage of persons,25.0,
+Canada,2024,Persons under 18 years,"Food insecure, moderate or severe",Percentage of persons,24.0,-1.0
+Canada,2023,Recent immigrants (10 years or less) aged 15 years and over 10,Food insecure,Percentage of persons,34.7,
+Canada,2024,Recent immigrants (10 years or less) aged 15 years and over 10,Food insecure,Percentage of persons,30.8,-3.900000000000002
+Canada,2023,Recent immigrants (10 years or less) aged 15 years and over 10,"Food insecure, moderate or severe",Percentage of persons,25.4,
+Canada,2024,Recent immigrants (10 years or less) aged 15 years and over 10,"Food insecure, moderate or severe",Percentage of persons,22.8,-2.599999999999998
+Canada,2023,Visible minority population 7,Food insecure,Percentage of persons,32.4,
+Canada,2024,Visible minority population 7,Food insecure,Percentage of persons,30.4,-2.0
+Canada,2023,Visible minority population 7,"Food insecure, moderate or severe",Percentage of persons,25.0,
+Canada,2024,Visible minority population 7,"Food insecure, moderate or severe",Percentage of persons,23.5,-1.5
+Canada,2023,Women+ 5,Food insecure,Percentage of persons,26.1,
+Canada,2024,Women+ 5,Food insecure,Percentage of persons,24.2,-1.9000000000000021
+Canada,2023,Women+ 5,"Food insecure, moderate or severe",Percentage of persons,19.7,
+Canada,2024,Women+ 5,"Food insecure, moderate or severe",Percentage of persons,18.7,-1.0
