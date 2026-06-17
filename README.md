@@ -188,4 +188,8 @@ This project is currently in development. Future improvements may include:
 * Adding forecasting models for selected grocery products.
 * Creating a downloadable policy brief.
 * Expanding visualizations by province and product category.
-* Deploying the dashboard using Streamlit Community Cloud.
+
+
+## Live Dashboard
+
+View the deployed dashboard here: [Canadian Grocery Affordability Dashboard](https://canada-grocery-affordability-dashboard-acxtxuvajbwkrw2hxpaelp.streamlit.app/)
