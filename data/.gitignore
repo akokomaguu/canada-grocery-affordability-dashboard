@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Large raw data files
+# Keep the raw data locally, but avoid pushing heavy original datasets.
+data/raw/*.csv
+data/raw/*.zip
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Optional local exports
+*.xlsx
+*.xls
+
+# Streamlit secrets
+.streamlit/secrets.toml
