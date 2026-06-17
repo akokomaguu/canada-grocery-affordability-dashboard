@@ -173,11 +173,12 @@ This project demonstrates how public datasets can be used to monitor grocery aff
 
 ## Author
 
-**Malone Aoko**
+**Malon Aoko**
 Data Scientist | Data Analyst | Statistician
 Python • R • Excel • Dashboards • Statistical Modelling • GIS • Machine Learning
 
 GitHub: [akokomaguu](https://github.com/akokomaguu)
+LinkedIn: https://www.linkedin.com/in/malon-aoko-9a1377334/
 
 ## Project Status
 
